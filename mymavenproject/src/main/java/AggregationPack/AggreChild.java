@@ -26,8 +26,9 @@ public void display() {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-	    AggreParent object=new AggreParent(21,"Roma");
+		AggreParent object=new AggreParent(21,"Roma");
 		AggreChild obj=new AggreChild(2,"English",object);
+		
 		//The object of parent is used as reference in child class and passed
 		//as an argument
 		obj.display();
