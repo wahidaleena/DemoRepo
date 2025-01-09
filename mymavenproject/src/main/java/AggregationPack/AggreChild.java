@@ -32,6 +32,7 @@ public void display() {
 		//The object of parent is used as reference in child class and passed
 		//as an argument
 		obj.display();
+		
 	}
 
 }

@@ -16,6 +16,7 @@ public class OffSeason extends OnSeason {
 		// TODO Auto-generated method stub
 		OffSeason obj=new OffSeason();
 		obj.discount(2000);
+		
 
 	}
 
