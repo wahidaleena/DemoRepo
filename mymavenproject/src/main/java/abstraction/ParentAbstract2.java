@@ -6,7 +6,7 @@ public abstract class ParentAbstract2 {
 	
 	public void test() {
 		
-		System.out.println("Testing a method");
+		System.out.println("Testing a non-abstract method in abstract class");
 	}
 
 }

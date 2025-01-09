@@ -15,7 +15,7 @@ public class ChildSample extends ParentAbstract2{
 		System.out.println("Display method 2 is implemented here");
 		
 	}
-	
+	//This cannot be done
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
