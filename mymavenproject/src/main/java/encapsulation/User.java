@@ -9,6 +9,7 @@ public class User extends Bank {
 		// TODO Auto-generated method stub
 		
 		Bank obj=new Bank();
+		
 		Scanner sc=new Scanner(System.in);
 		System.out.println("Enter the pin you want to set");
 		int pinNo=sc.nextInt();

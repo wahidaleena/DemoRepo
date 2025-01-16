@@ -1,11 +1,14 @@
 package encapsulation;
 
+import java.util.Scanner;
+
 public class EncapParent {
 
-	private  String name;
+	private String name;
 	private int age;
 	
 public void setName(String name) {
+	
 	
 	this.name=name;
 	
