@@ -28,6 +28,7 @@ public class ArrayListNonGen {
 		li.remove(0);
 		System.out.println(li);
 		System.out.println(li.get(2));
+		//System.out.println(li.contains("black"));
 		
 		//Iterator used to iterate the elements in the list
 		Iterator<String> itr=li.iterator();
@@ -39,6 +40,8 @@ public class ArrayListNonGen {
 		//remove the last element
 		itr.remove();
 		System.out.println(li);
+		
+		
 		
 		al.clear();
 		System.out.println(al);
